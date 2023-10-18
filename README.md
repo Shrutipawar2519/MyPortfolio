@@ -1,3 +1,4 @@
-![Screenshot (33)](https://github.com/Shrutipawar2519/MyPortfolio/assets/125301869/5a7fc61d-96d8-4877-b85c-e28e9ccfcc68)
-![Screenshot (34)](https://github.com/Shrutipawar2519/MyPortfolio/assets/125301869/ec02da5b-af53-4e35-8bb5-8bfcd038bab6)
-![Screenshot (35)](https://github.com/Shrutipawar2519/MyPortfolio/assets/125301869/b3f48b3f-a885-48a9-a723-175dcbb925d5)
+
+![Screenshot (33)](https://github.com/Shrutipawar2519/MyPortfolio/assets/125301869/df05cae7-7269-45b2-a838-408e4eb7bbe2)
+![Screenshot (34)](https://github.com/Shrutipawar2519/MyPortfolio/assets/125301869/8c71b223-3241-419a-ad63-3df568ff52d5)
+![Screenshot (35)](https://github.com/Shrutipawar2519/MyPortfolio/assets/125301869/7dced18b-7edc-41ae-a0dc-46193f57e6bf)
